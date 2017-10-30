@@ -1,0 +1,15 @@
+{
+  "name": "ms-m-antd",
+  "version": "1.0.0",
+  "main": "lib/index",
+  "scripts": {
+    "start": "webpack-dev-server --host 0.0.0.0 --port 8000",
+    "build": "webpack -p --display-optimization-bailout --progress --colors"
+  },
+  "author": "Yangzhedi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yangzhedi/ms-m-antd/issues"
+  },
+  "homepage": "https://github.com/yangzhedi/ms-m-antd#readme"
+}
